@@ -1,0 +1,2 @@
+import shapefile 
+安装的shapefile包有问题，版本太旧
